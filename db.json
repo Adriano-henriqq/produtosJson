@@ -1,7 +1,9 @@
-[
+{
+  [
   { "id": 1, "title": "Maçãs", "category": "Compras", "price": 2.5, "quantity": 5 },
   { "id": 2, "title": "Livro de Matemática", "category": "Estudos", "price": 30.0, "quantity": 1 },
   { "id": 3, "title": "Consulta de Rotina", "category": "Saúde", "price": 80.0, "quantity": 1 },
   { "id": 4, "title": "Conta de Luz", "category": "Finanças", "price": 100.0, "quantity": 1 },
   { "id": 5, "title": "Bicicleta Ergométrica", "category": "Saúde", "price": 500.0, "quantity": 1 }
 ]
+}
